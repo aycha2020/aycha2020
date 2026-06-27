@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Aicha
+# 👋 Hi, I'm Aisha
 
-### 🚀 Data Engineer • AI Enthusiast • Power BI Developer
+### 🚀 Data Analyst • AI Enthusiast • Power BI Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aicha&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-💻 Passionate about Data Engineering & Artificial Intelligence
+💻 Passionate about Data Analyst & Artificial Intelligence
 
 📊 I build ETL Pipelines & Business Intelligence Dashboards
 
