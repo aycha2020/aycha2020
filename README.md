@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Aisha
 
-### 🚀 Data Analyst • AI Enthusiast • Power BI Developer
+### 🚀 Data Analyst • SQL • Python • Power BI Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aicha&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aisha&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Engineer;Artificial+Intelligence;Python+Developer;Power+BI+Developer;Always+Learning+New+Things✨"/>
@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-💻 Passionate about Data Analyst & Artificial Intelligence
+💻 Passionate about Data Analyst focused on transforming raw dataninto meaningful insights.
 
 📊 I build ETL Pipelines & Business Intelligence Dashboards
 
@@ -55,8 +55,11 @@
 # 🌟 Featured Projects
 
 ## 🤖 AI Remediation
-
-AI application for vulnerability analysis and remediation recommendations.
+    • Python
+    • Machine Learning
+    • Vulnerability Detection
+    • Auromated Recommendations
+ A web application that analyzes vulnerability and generates intelligent remediation recommendations using AI.
 
 ---
 
