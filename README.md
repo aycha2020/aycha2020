@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="banner.png" width="100%" />
+</p>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6C63FF,50:8A2BE2,100:C71585&text=AiSha&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn"/>
